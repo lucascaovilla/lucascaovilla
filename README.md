@@ -6,7 +6,7 @@
 </div>
 <style>
     div img {
-        border: 10px solid black;
+        border: 10px solid #0000ff;
     }
 </style>
 
