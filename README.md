@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lucas Caovilla</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="300" style="border: 5px solid red;" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<div>
+    <img align="right" alt="Coding" width="350" style="margin-right:50px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+</div>
+<style>
+    div img {
+        border: 10px solid black;
+    }
+</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascaovilla&label=Profile%20views&color=0e75b6&style=flat" alt="lucascaovilla" /> </p>
 
