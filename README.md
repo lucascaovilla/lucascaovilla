@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascaovilla&show_icons=true&locale=en" alt="lucascaovilla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascaovilla&" alt="lucascaovilla" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascaovilla&](https://streak-stats.demolab.com?user=lucascaovilla&theme=vue-dark&hide_border=true)https://streak-stats.demolab.com?user=lucascaovilla&theme=vue-dark&hide_border=true" alt="lucascaovilla" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=lucascaovilla" /></p>
