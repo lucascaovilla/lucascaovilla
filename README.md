@@ -12,11 +12,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,angular,dotnet,docker,flutter,azure,git,java,laravel,arch,mysql,postgres,php)](https://skillicons.dev)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascaovilla&show_icons=true&locale=en" alt="lucascaovilla" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascaovilla&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaovilla&hide_progress=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascaovilla&" alt="lucascaovilla" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaovilla&layout=compact)
