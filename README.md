@@ -12,6 +12,6 @@ Lover of technology and problem solving :heart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascaovilla&show_icons=true&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,angular,dotnet,docker,flutter,azure,git,java,laravel,arch,mysql,postgres,php)](https://skillicons.dev)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaovilla&layout=compact)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,angular,dotnet,docker,flutter,azure,git,java,laravel,arch,mysql,postgres,php)](https://skillicons.dev)
