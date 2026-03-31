@@ -2,9 +2,9 @@
 
 **.NET & Angular developer** based in Brazil, focused on building high-quality backend systems and open source tooling. I care about architecture, clean code, and shipping things that are actually good.
 
-Currently building **[Olav](https://github.com/lucascaovilla/olav)** — an opinionated .NET CLI that scaffolds production-grade DDD APIs from a single command.
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgcaovilla/)](https://www.linkedin.com/in/lucasgcaovilla/)
+
+Currently building **[Olav](https://github.com/lucascaovilla/olav)** — an opinionated .NET CLI that scaffolds production-grade DDD APIs from a single command.
 
 ---
 
@@ -30,10 +30,3 @@ A .NET CLI tool that generates production-ready API projects following strict Do
 ## Stack
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,angular,docker,postgres)](https://skillicons.dev)
-
----
-
-## Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascaovilla&show_icons=true&theme=tokyonight)](https://github.com/lucascaovilla)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaovilla&layout=compact&theme=tokyonight)](https://github.com/lucascaovilla)
