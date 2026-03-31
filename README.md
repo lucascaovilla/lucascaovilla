@@ -1,8 +1,8 @@
 # Hey, I'm Lucas 👋
 
-**.NET & Angular developer** based in Brazil, focused on building high-quality backend systems and open source tooling. I care about architecture, clean code, and shipping things that are actually good.
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgcaovilla/)](https://www.linkedin.com/in/lucasgcaovilla/)
+
+**.NET & Angular developer** based in Brazil, focused on building high-quality backend systems and open source tooling. I care about architecture, clean code, and shipping things that are actually good.
 
 Currently building **[Olav](https://github.com/lucascaovilla/olav)** — an opinionated .NET CLI that scaffolds production-grade DDD APIs from a single command.
 
