@@ -1,17 +1,39 @@
-# Welcome!
-## I'm Lucas! Let me introduce myself
+# Hey, I'm Lucas 👋
 
-Full-Stack focused in Dotnet and Angular | Software developer :robot:
+**.NET & Angular developer** based in Brazil, focused on building high-quality backend systems and open source tooling. I care about architecture, clean code, and shipping things that are actually good.
 
-Lover of technology and problem solving :heart:
+Currently building **[Olav](https://github.com/lucascaovilla/olav)** — an opinionated .NET CLI that scaffolds production-grade DDD APIs from a single command.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgcaovilla/)](https://www.linkedin.com/in/lucasgcaovilla/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5554992515489&text=Hello!)](https://api.whatsapp.com/send?phone=5554992515489&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgrisac@gmail.com)](mailto:lucasgrisac@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgcaovilla/)](https://www.linkedin.com/in/lucasgcaovilla/)
 
-<div style="display: flex">
-  <img style="flex: 1; height: 150px" src="https://github-readme-stats.vercel.app/api?username=lucascaovilla&show_icons=true&theme=tokyonight">
-  <img style="flex: 1; height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaovilla&layout=compact&theme=tokyonight">
-</div>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=cs,angular,dotnet,docker,flutter,azure,git,java,laravel,arch,mysql,postgres,php)](https://skillicons.dev)
+## Featured
+
+### [Olav](https://github.com/lucascaovilla/olav) — `C#`
+A .NET CLI tool that generates production-ready API projects following strict Domain-Driven Design. Architecture tests, Docker, CI/CD, and Git hooks — all wired before you write a single line of business logic.
+
+---
+
+## Other Projects
+
+| Repo | Language | Description |
+|------|----------|-------------|
+| [storage-manager](https://github.com/lucascaovilla/storage-manager) | C++ | Storage manager for vertical structures using step-motors and pneumatic cylinders |
+| [clone-tabnews](https://github.com/lucascaovilla/clone-tabnews) | JavaScript | Full clone of tabnews.com.br built for the curso.dev curriculum |
+| [dotnet8-docker](https://github.com/lucascaovilla/dotnet8-docker) | Dockerfile | .NET 8 dev environment with Docker |
+| [angular18-docker](https://github.com/lucascaovilla/angular18-docker) | Dockerfile | Angular 18 dev environment with Docker |
+| [libft](https://github.com/lucascaovilla/libft) | C | 42SP inner orbit — self-implemented LibC |
+
+---
+
+## Stack
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,docker,postgres)](https://skillicons.dev)
+
+---
+
+## Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascaovilla&show_icons=true&theme=tokyonight)](https://github.com/lucascaovilla)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaovilla&layout=compact&theme=tokyonight)](https://github.com/lucascaovilla)
